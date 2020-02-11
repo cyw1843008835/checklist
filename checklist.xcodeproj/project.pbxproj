@@ -16,6 +16,7 @@
 		D2ECB22923F226F4000C0031 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2ECB22723F226F4000C0031 /* LaunchScreen.storyboard */; };
 		D2ECB23423F226F4000C0031 /* checklistTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2ECB23323F226F4000C0031 /* checklistTests.swift */; };
 		D2ECB23F23F226F4000C0031 /* checklistUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2ECB23E23F226F4000C0031 /* checklistUITests.swift */; };
+		D2ECB24F23F2C5A9000C0031 /* Checkitems.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2ECB24E23F2C5A9000C0031 /* Checkitems.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D2ECB23A23F226F4000C0031 /* checklistUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = checklistUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2ECB23E23F226F4000C0031 /* checklistUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = checklistUITests.swift; sourceTree = "<group>"; };
 		D2ECB24023F226F4000C0031 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D2ECB24E23F2C5A9000C0031 /* Checkitems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkitems.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				D2ECB21923F226EE000C0031 /* AppDelegate.swift */,
 				D2ECB21B23F226EE000C0031 /* SceneDelegate.swift */,
 				D2ECB22023F226EE000C0031 /* ContentView.swift */,
+				D2ECB24E23F2C5A9000C0031 /* Checkitems.swift */,
 				D2ECB22223F226F4000C0031 /* Assets.xcassets */,
 				D2ECB22723F226F4000C0031 /* LaunchScreen.storyboard */,
 				D2ECB22A23F226F4000C0031 /* Info.plist */,
@@ -274,6 +277,7 @@
 				D2ECB21C23F226EE000C0031 /* SceneDelegate.swift in Sources */,
 				D2ECB22123F226EE000C0031 /* ContentView.swift in Sources */,
 				D2ECB21F23F226EE000C0031 /* checklist.xcdatamodeld in Sources */,
+				D2ECB24F23F2C5A9000C0031 /* Checkitems.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
